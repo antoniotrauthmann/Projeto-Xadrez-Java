@@ -1,0 +1,52 @@
+# Compilação e Binários do Ecossistema Java
+# Ignora todos os arquivos compilados individualmente
+*.class
+
+# Ignora os pacotes compactados gerados
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Ignora os diretórios padrão de saída de compilação
+bin/
+out/
+target/
+
+
+# Configurações Específicas de IDEs
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Visual Studio Code (VS Code)
+.vscode/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# Arquivos do Sistema Operacional=
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+
+# Arquivos de Log e Temporários
+*.log
+tmp/
