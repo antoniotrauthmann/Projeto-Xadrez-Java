@@ -2,12 +2,9 @@ package chess;
 
 import boardgame.Board;
 import boardgame.Piece;
+import boardgame.Position;
 
-<<<<<<< Updated upstream
-public class ChessPiece extends Piece {
-=======
 public abstract class ChessPiece extends Piece {
->>>>>>> Stashed changes
 
     private Color color;
     private int moveCount;
@@ -20,8 +17,6 @@ public abstract class ChessPiece extends Piece {
     public Color getColor() {
         return color;
     }
-<<<<<<< Updated upstream
-=======
 
     public int getMoveCount() {
         return moveCount;
@@ -43,5 +38,4 @@ public abstract class ChessPiece extends Piece {
         ChessPiece p = (ChessPiece) getBoard().piece(position);
         return p != null && p.getColor() != color;
     }
->>>>>>> Stashed changes
 }
