@@ -70,7 +70,7 @@ O desenvolvimento do sistema seguiu rigorosamente o fluxo evolutivo estipulado p
 
 O vídeo explicativo detalhando a arquitetura estrutural adotada, as principais decisões de projeto tomadas pela dupla, os desafios de engenharia superados e a demonstração prática das funcionalidades implementadas encontra-se disponível no endereço institucional abaixo:
 
-* URL: [Acessar Apresentação do Projeto - Google Drive](link do drive)
+* URL: [https://youtu.be/EGk8nFK7xfc](link youtube)
 
 ---
 
